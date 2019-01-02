@@ -18,7 +18,7 @@ Single page applications are more capable of decreasing load time of pages and t
 #### Note: developer can also use other JavaScript framework(angularjs, knockout, react e.t.c.) side by side.
 
 ## How to setup
-1) Download the js file from here and put it in the js directory ander the wwwroot folder
+1) Download the js file from [here](https://raw.githubusercontent.com/Amine-Smahi/ajxnetcore/master/ajxnetcore.js) and put it in the js directory ander the wwwroot folder
 2) Replace the "_ViewStart.cshtml" file with 
 
         @{

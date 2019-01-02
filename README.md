@@ -53,7 +53,7 @@ Single page applications are more capable of decreasing load time of pages and t
 ## Screenshot
 You can test this project by downloading the ajxnetcore.demo project
 
-![ajxnetcore spa .net core asp](https://user-images.githubusercontent.com/24621701/50609088-fa7c1b00-0ece-11e9-9453-3a4a92e86284.gif)
+![ajxnetcore spa .net core asp](https://user-images.githubusercontent.com/24621701/50609498-1d5aff00-0ed0-11e9-9228-105cf21ef1d2.gif)
 
 
 

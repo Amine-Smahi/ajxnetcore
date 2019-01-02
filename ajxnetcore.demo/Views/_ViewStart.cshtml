@@ -1,0 +1,11 @@
+﻿ @{
+     if (Context.Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+     {
+         Context.Response.Headers["Location"] = Microsoft.AspNetCore.Http.Extensions.UriHelper.GetDisplayUrl(Context.Request);
+         Context.Response.Headers["Cache-Control"] = "no-store";
+     }
+     else
+     {
+         Layout = "_Layout";
+     }
+ }

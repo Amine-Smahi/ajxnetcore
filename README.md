@@ -6,16 +6,16 @@ Its an innovative method to turn an ASP.NET Core Application Into Single Page Ap
 ## Why and How it works
 > Single page applications are more capable of decreasing load time of pages and the amount of data transfer from server to client. Why ? There are several pain points while working with Javascript framework like AngularJs, React, VueJs, Knockout, meteor e.t.c. in a ASP.NET Core MVC application in order to create Single-Page Application.
 #### Few Pain Points Are: 
-* Need to specify routing for each request 
-* Need to modify Server side technology according to Javascript framework 
-* Only possible to debug on run time 
-* Hard-coded data-binding caused too many error 
-* Increase the complexity a lot
+* Need to specify routing for each request. 
+* Need to modify Server side technology according to Javascript framework. 
+* Only possible to debug on run time. 
+* Hard-coded data-binding caused too many error. 
+* Increase the complexity.
 #### So what will i get
-* No need to learn any javascript framework 
-* No need to write much Jquery code to make Single Page Application 
-* No need to write Jquery ajax code because the plugin has ajax function specified which will be called automatically as a common function
-* Use default server side routing
+* No need to learn any javascript framework. 
+* No need to write much Jquery code to make Single Page Application. 
+* No need to write Jquery ajax code because the plugin has ajax function specified which will be called automatically as a common function.
+* Use default server side routing.
 
 #### Note: developer can also use other JavaScript framework(angularjs, knockout, react e.t.c.) side by side.
 

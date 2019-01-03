@@ -1,10 +1,10 @@
 ## What is Ajxnetcore 
 ![ajxnetcore](https://user-images.githubusercontent.com/24621701/50636568-dbc16700-0f56-11e9-94c6-e02b0ce032c7.png)
 
-Its a creative way to turn an ASP.NET Core Application Into Single-Page Application,The goal is to minimize developer's effort while working on Creating an SPA, While improving the Software performance both on server and client side
+Its an innovative method to turn an ASP.NET Core Application Into Single Page Application, The goal is to reduce developer's effort while working on Creating an SPA and enhancing the Software performance both on server and client side.
 
 ## Why and How it works
-Single page applications are more capable of decreasing load time of pages and the amount of data transfer from server to client. Why 1? There are several pain points while working with Javascript framework like AngularJs, React, VueJs, Knockout, meteor e.t.c. in a ASP.NET Core MVC application in order to create Single-Page Application.
+> Single page applications are more capable of decreasing load time of pages and the amount of data transfer from server to client. Why ? There are several pain points while working with Javascript framework like AngularJs, React, VueJs, Knockout, meteor e.t.c. in a ASP.NET Core MVC application in order to create Single-Page Application.
 #### Few Pain Points Are: 
 * Need to specify routing for each request 
 * Need to modify Server side technology according to Javascript framework 
